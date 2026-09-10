@@ -8,7 +8,7 @@ label start:
 
     scene bg beforeisekai1
     
-    show you malemaincharacter default at right
+    show you malemaincharacter default1 at right
 
     y "It's late again. \n{w}{i} Sigh... {/i} \n{w}..."
 
@@ -16,7 +16,7 @@ label start:
 
     y "Damn, I suck... Shakespear said that once I believe"
 
-#show trakkun default at offscreenlest
+    show trakkun default at offscreenlest
 
     tk "Hello"
 
@@ -26,7 +26,7 @@ label start:
 
     y "...{w} \nFuck"
 
-    #show trakkun happy
+    show trakkun happy
 
     #scene 
 
