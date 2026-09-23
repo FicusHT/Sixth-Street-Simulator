@@ -21,7 +21,7 @@ label start:
 
     y "Another day at work just to aford some groceries... {w}\n... {w}\nand buy some pulls, I guess... "
 
-    y "Damn, I suck... Shakespear said that once I believe."
+    y ""Damn, I suck"... Shakespear said that once I believe."
 
     show traktan default at slide_in
 
@@ -65,6 +65,6 @@ label start:
 
     b "You look like truk have hit you."
 
-    y "...Ugh {w}\n No, no... I always look like this"
+    y "...Ugh {w}\n Kinda... I always look a bit scuffed as well"
 
     return
