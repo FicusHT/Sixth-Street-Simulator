@@ -21,11 +21,11 @@ label start:
 
     y "Another day at work just to aford some groceries... {w}\n... {w}\nand buy some pulls, I guess... "
 
-    y "Damn, I suck... Shakespear said that once I believe"
+    y "Damn, I suck... Shakespear said that once I believe."
 
     show traktan default at slide_in
 
-    tk "Hello"
+    tk "Hello."
 
     y "{i}Oh.{/i} {w}Hi. Is it what I think it is?"
     
@@ -33,9 +33,9 @@ label start:
         xalign 0.0
         yalign 1.0
 
-    tk "Yeah"
+    tk "Yeah."
 
-    y "...{w} \nFuck"
+    y "...{w} \nFuck."
 
     show traktan happy:
         linear 0.5 xalign 1.0  
@@ -44,21 +44,27 @@ label start:
 
     y "Agh... Fuck... {w}\n It's realy painful..."
 
-    y "I thought it wouldn be... like that"
+    y "I thought it wouldn be... like that."
 
     show you malemaincharacter default:
         xalign 1.0
         yalign 10.0
         linear 0.2 yalign 1.0
 
-    y "Wow... I can't believe my eyes"
+    y "Wow... I can't believe my eyes."
 
-    y "It's a ZZZ"
+    y "It's a ZZZ."
 
     show bele default at slide_in
 
     b "Hey, everything alright?"
 
     y "...Eh... {w}\n ...No?"
+
+    b "Actually, i figured that out."
+
+    b "You look like truk have hit you."
+
+    y "...Ugh {w}\n No, no... I always look like this"
 
     return
