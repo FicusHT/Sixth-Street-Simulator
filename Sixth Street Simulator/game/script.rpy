@@ -21,7 +21,7 @@ label start:
 
     y "Another day at work just to aford some groceries... {w}\n... {w}\nand buy some pulls, I guess... "
 
-    y ""Damn, I suck"... Shakespear said that once I believe."
+    y "'Damn, I suck'... Shakespear said that once I believe."
 
     show traktan default at slide_in
 
