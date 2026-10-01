@@ -9,6 +9,13 @@ transform slide_in:
     yalign 1.0
     linear 0.5 xalign 0.0
 
+label splashscreen:
+    scene disclaimer
+    with fade
+    pause 5.0
+    scene main_menu with fade
+    return
+
 label start:
 
     scene bg beforeisekai1
@@ -61,10 +68,10 @@ label start:
 
     y "...Eh... {w}\n ...No?"
 
-    b "Actually, i figured that out."
+    b "Actually, I figured that out."
 
-    b "You look like truk have hit you."
+    b "You look like truck have hit you."
 
-    y "...Ugh {w}\n Kinda... I always look a bit scuffed as well"
+    y "...Ugh {w}\n Kinda..."
 
     return
