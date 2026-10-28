@@ -23,7 +23,7 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "1.0"
+define config.version = "0.0.3"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
@@ -73,13 +73,13 @@ define config.has_voice = True
 
 ## Entering or exiting the game menu.
 
-define config.enter_transition = dissolve
-define config.exit_transition = dissolve
+define config.enter_transition = fade
+define config.exit_transition = fade
 
 
 ## Between screens of the game menu.
 
-define config.intra_transition = dissolve
+define config.intra_transition = fade
 
 
 ## A transition that is used after a game has been loaded.
